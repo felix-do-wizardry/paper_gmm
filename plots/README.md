@@ -1,31 +1,63 @@
 # Model Metrics Plot for gmm deit
 
-> test_block_ratio_mem
+## PLOTS
 
-<p float="left" align="middle">
+> ratio_test_block_mem
 
-<img src="clean/test_block_ratio_mem.png" width="250" />
+<p float="left" align="left">
 
-<img src="ref/test_block_ratio_mem.png" width="250" />
+<img src="clean/ratio_test_block_mem.png" width="200" />
 
-</p>
-
-> test_block_ratio_flops
-
-<p float="left" align="middle">
-
-<img src="clean/test_block_ratio_flops.png" width="250" />
-
-<img src="ref/test_block_ratio_flops.png" width="250" />
+<img src="ref/ratio_test_block_mem.png" width="200" />
 
 </p>
 
-> test_block_ratio_time
+> ratio_test_block_flops
 
-<p float="left" align="middle">
+<p float="left" align="left">
 
-<img src="clean/test_block_ratio_time.png" width="250" />
+<img src="clean/ratio_test_block_flops.png" width="200" />
 
-<img src="ref/test_block_ratio_time.png" width="250" />
+<img src="ref/ratio_test_block_flops.png" width="200" />
+
+</p>
+
+> ratio_test_block_time
+
+<p float="left" align="left">
+
+<img src="clean/ratio_test_block_time.png" width="200" />
+
+<img src="ref/ratio_test_block_time.png" width="200" />
+
+</p>
+
+> ratio_test_model_mem
+
+<p float="left" align="left">
+
+<img src="clean/ratio_test_model_mem.png" width="200" />
+
+<img src="ref/ratio_test_model_mem.png" width="200" />
+
+</p>
+
+> ratio_test_model_flops
+
+<p float="left" align="left">
+
+<img src="clean/ratio_test_model_flops.png" width="200" />
+
+<img src="ref/ratio_test_model_flops.png" width="200" />
+
+</p>
+
+> ratio_test_model_time
+
+<p float="left" align="left">
+
+<img src="clean/ratio_test_model_time.png" width="200" />
+
+<img src="ref/ratio_test_model_time.png" width="200" />
 
 </p>
